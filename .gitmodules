@@ -16,3 +16,12 @@
 [submodule "FFT_FILTERING_BANK"]
 	path = FFT_FILTERING_BANK
 	url = git@github.com:Guille340/FFT_FILTERING_BANK.git
+[submodule "ACA-Code"]
+	path = ACA-Code
+	url = git@github.com:alexanderlerch/ACA-Code.git
+[submodule "MicArrayBeamforming"]
+	path = MicArrayBeamforming
+	url = git@github.com:MiguelBlancoGalindo/MicArrayBeamforming.git
+[submodule "Array-Toolbox"]
+	path = Array-Toolbox
+	url = git@github.com:UKY-Distributed-Audio-Lab/Array-Toolbox.git
