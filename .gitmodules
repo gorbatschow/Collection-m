@@ -28,3 +28,6 @@
 [submodule "beamforming"]
 	path = beamforming
 	url = git@github.com:jorgengrythe/beamforming.git
+[submodule "Spherical-Array-Processing"]
+	path = Spherical-Array-Processing
+	url = git@github.com:polarch/Spherical-Array-Processing.git
