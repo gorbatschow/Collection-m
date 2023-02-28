@@ -25,3 +25,6 @@
 [submodule "Array-Toolbox"]
 	path = Array-Toolbox
 	url = git@github.com:UKY-Distributed-Audio-Lab/Array-Toolbox.git
+[submodule "beamforming"]
+	path = beamforming
+	url = git@github.com:jorgengrythe/beamforming.git
