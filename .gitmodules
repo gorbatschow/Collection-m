@@ -1,0 +1,18 @@
+[submodule "TL_AVERAGING"]
+	path = TL_AVERAGING
+	url = git@github.com:Guille340/TL_AVERAGING.git
+[submodule "SPECTRAL_RESPONSE"]
+	path = SPECTRAL_RESPONSE
+	url = git@github.com:Guille340/SPECTRAL_RESPONSE.git
+[submodule "SEAWATER_PROPERTIES"]
+	path = SEAWATER_PROPERTIES
+	url = git@github.com:Guille340/SEAWATER_PROPERTIES.git
+[submodule "IMAGE_SOURCE_MODEL"]
+	path = IMAGE_SOURCE_MODEL
+	url = git@github.com:Guille340/IMAGE_SOURCE_MODEL.git
+[submodule "DIGITAL_FILTERING_BANK"]
+	path = DIGITAL_FILTERING_BANK
+	url = git@github.com:Guille340/DIGITAL_FILTERING_BANK.git
+[submodule "FFT_FILTERING_BANK"]
+	path = FFT_FILTERING_BANK
+	url = git@github.com:Guille340/FFT_FILTERING_BANK.git
